@@ -1,0 +1,3 @@
+create or replace TABLE TABLE5 (
+	NAME VARCHAR(16777216)
+);
