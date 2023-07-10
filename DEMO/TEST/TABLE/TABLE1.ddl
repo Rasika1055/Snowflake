@@ -1,3 +1,4 @@
 create or replace TABLE TABLE1 (
-	ID NUMBER(38,0)
+	ID NUMBER(38,0),
+	NAME VARCHAR(16777216)
 );
